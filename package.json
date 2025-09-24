@@ -1,0 +1,14 @@
+{
+  "name": "website-control-ai",
+  "version": "1.0.0",
+  "description": "Control the web page using AI, to fill the form and apply to the job",
+  "main": "vision_html_fusion.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.5.2"
+  }
+}
